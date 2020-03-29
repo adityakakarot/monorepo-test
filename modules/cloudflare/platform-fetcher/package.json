@@ -1,7 +1,10 @@
 {
-  "name": "platform-fetcher",
+  "name": "@mnptest/cloudflare-platform-fetcher",
   "version": "1.0.0",
   "description": "Platform fetcher",
-  "main": "index.js",
-  "license": "MIT"
+  "main": "src/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@mnptest/utils-platform-checker": "1.0.0"
+  }
 }

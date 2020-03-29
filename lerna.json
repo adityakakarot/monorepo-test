@@ -5,6 +5,7 @@
     "modules/utils/*"
   ],
   "npmClient": "yarn",
+  "useWorkspaces": true,
   "publish": {
     "ignoreChanges": ["ignored-file", "*.md"]
   }
