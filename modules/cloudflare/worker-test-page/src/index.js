@@ -21,6 +21,6 @@ addEventListener("fetch", event => {
   );
 });
 
-async function handleRequest(request, response, event) {
+async function handleRequest(request, response) {
   return platformFetcher({ request });
 }

@@ -11,7 +11,6 @@ function mobilecheck(userAgent) {
     )
       check = true;
   })(userAgent);
-
   return check;
 }
 

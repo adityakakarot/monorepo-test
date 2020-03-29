@@ -3,7 +3,6 @@ const mobilecheck = require("@mnptest/utils-platform-checker").mobilecheck;
 const platforms = { DESKTOP: "Desktop", MOBILE: "Mobile" };
 
 /**
- *
  * @param {*} eventContext
  * @param {*} props
  */
