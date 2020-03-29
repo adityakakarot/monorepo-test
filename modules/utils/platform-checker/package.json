@@ -1,6 +1,6 @@
 {
   "name": "@mnptest/utils-platform-checker",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Check for platform",
   "main": "src/index.js",
   "repository": "git@github.com:adityakakarot/monorepo-test.git",
