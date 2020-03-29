@@ -1,6 +1,6 @@
 {
   "name": "@mnptest/utils-platform-checker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check for platform",
   "main": "src/index.js",
   "license": "MIT"
