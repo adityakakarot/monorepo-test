@@ -1,4 +1,4 @@
-import platformFetcher from "../../platform-fetcher/src";
+const platformFetcher = require("@mnptest/cloudflare-platform-fetcher");
 
 addEventListener("fetch", event => {
   /**

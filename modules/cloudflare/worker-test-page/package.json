@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "description": "Test page worker",
   "main": "src/index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@mnptest/cloudflare-platform-fetcher": "1.0.0",
+  }
 }
