@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "packages": [
+    "modules/cloudflare/*",
+    "modules/utils/*"
+  ],
+  "npmClient": "yarn",
+  "publish": {
+    "ignoreChanges": ["ignored-file", "*.md"]
+  }
+}

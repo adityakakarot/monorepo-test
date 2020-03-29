@@ -1,0 +1,7 @@
+{
+  "name": "platform-checker",
+  "version": "1.0.0",
+  "description": "Check for platform",
+  "main": "index.js",
+  "license": "MIT"
+}

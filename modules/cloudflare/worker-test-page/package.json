@@ -1,0 +1,7 @@
+{
+  "name": "worker-test-page",
+  "version": "1.0.0",
+  "description": "Test page worker",
+  "main": "index.js",
+  "license": "MIT"
+}

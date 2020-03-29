@@ -1,0 +1,7 @@
+{
+  "name": "platform-fetcher",
+  "version": "1.0.0",
+  "description": "Platform fetcher",
+  "main": "index.js",
+  "license": "MIT"
+}

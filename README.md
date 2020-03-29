@@ -1,2 +1,2 @@
 # monorepo-test
-Testing a mono-repo based structure
+Testing a mono-repo based architecture
