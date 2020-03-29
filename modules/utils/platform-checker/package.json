@@ -3,5 +3,6 @@
   "version": "1.0.1",
   "description": "Check for platform",
   "main": "src/index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "9a79faf08e12d62eeee7f8da82b9f5dfc81b505f"
 }

@@ -6,5 +6,6 @@
   "license": "MIT",
   "dependencies": {
     "@mnptest/cloudflare-platform-fetcher": "^1.0.1"
-  }
+  },
+  "gitHead": "9a79faf08e12d62eeee7f8da82b9f5dfc81b505f"
 }
