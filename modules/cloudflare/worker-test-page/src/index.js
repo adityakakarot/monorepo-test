@@ -8,6 +8,7 @@ addEventListener("fetch", event => {
   event.passThroughOnException();
 
   /**
+   *
    * Responds to the fetch event.
    * Ref: https://developers.cloudflare.com/workers/about/tips/fetch-event-lifecycle#respondwith
    */
