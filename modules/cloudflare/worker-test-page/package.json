@@ -1,12 +1,12 @@
 {
   "name": "worker-test-page",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Test page worker",
   "main": "src/index.js",
   "repository": "git@github.com:adityakakarot/monorepo-test.git",
   "license": "MIT",
   "dependencies": {
-    "@adityakakarot/cloudflare-platform-fetcher": "^1.0.4"
+    "@adityakakarot/cloudflare-platform-fetcher": "^1.0.5"
   },
   "gitHead": "c1b4136175ba314ff5e3c79eddf9677563575752"
 }

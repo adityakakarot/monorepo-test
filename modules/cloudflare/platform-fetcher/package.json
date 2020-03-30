@@ -1,12 +1,12 @@
 {
   "name": "@adityakakarot/cloudflare-platform-fetcher",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Platform fetcher",
   "main": "src/index.js",
   "repository": "git@github.com:adityakakarot/monorepo-test.git",
   "license": "MIT",
   "dependencies": {
-    "@adityakakarot/utils-platform-checker": "^1.0.4"
+    "@adityakakarot/utils-platform-checker": "^1.0.5"
   },
   "gitHead": "c1b4136175ba314ff5e3c79eddf9677563575752"
 }
