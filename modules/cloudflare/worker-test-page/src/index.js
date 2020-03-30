@@ -1,4 +1,4 @@
-const platformFetcher = require("@mnptest/cloudflare-platform-fetcher");
+const platformFetcher = require("@adityakakarot/cloudflare-platform-fetcher");
 
 addEventListener("fetch", event => {
   /**

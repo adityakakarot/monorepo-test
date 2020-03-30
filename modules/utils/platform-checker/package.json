@@ -1,8 +1,9 @@
 {
-  "name": "@mnptest/utils-platform-checker",
+  "name": "@adityakakarot/utils-platform-checker",
   "version": "1.0.4",
   "description": "Check for platform",
   "main": "src/index.js",
   "repository": "git@github.com:adityakakarot/monorepo-test.git",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "c1b4136175ba314ff5e3c79eddf9677563575752"
 }

@@ -1,4 +1,5 @@
-const mobilecheck = require("@mnptest/utils-platform-checker").mobilecheck;
+const mobilecheck = require("@adityakakarot/utils-platform-checker")
+  .mobilecheck;
 
 const platforms = { DESKTOP: "Desktop", MOBILE: "Mobile" };
 
